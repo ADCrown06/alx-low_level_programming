@@ -1,7 +1,7 @@
 #include <stdio.h>
 
 /**
- * main - Lists all the natural numbers below 1021 that are multiples of 3 or 5.
+ * main - Lists all the natural numbers below 1021 multiples of 3 or 5.
  *
  * Return: Always 0.
  */
